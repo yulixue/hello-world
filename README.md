@@ -1,2 +1,3 @@
 # hello-world
-初学编程
+
+刚开始学习HTML、CSS和JavaScript
