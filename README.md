@@ -1,3 +1,3 @@
 # hello-world
 
-刚开始学习HTML、CSS和JavaScript
+记录在<a href="https://www.w3schools.com/">w3schools</a>上的学习过程
